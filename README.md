@@ -49,4 +49,9 @@ Ideas
  - Train the model using TensorFlow.
  - Record the values over time.
  - Present historical data over time.
+12. Weather Station.
+ - Collect temperature/humidy/etc values in a cloud DB.
+ - Analyze the collected data.
+ - Present realtime and historical data over time.
+ - https://www.raspberrypi.org/blog/build-your-own-weather-station/
 
